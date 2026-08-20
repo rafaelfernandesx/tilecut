@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: '%s | Tilecut',
   },
   description:
-    'Recorte spritesheets em tiles gratuitamente e direto no navegador. Importe PNG, JPG ou WEBP, defina o tamanho do tile (8x8, 16x16, 32x32, 48x48, 64x64), selecione os tiles e exporte sprites PNG sem perda de qualidade e com transparência preservada — cada um separadamente ou todos em um arquivo ZIP. Processamento 100% local, seus arquivos nunca saem do seu computador.',
+    'Recorte spritesheets em tiles gratuitamente e direto no navegador. Importe uma ou várias imagens (PNG, JPG ou WEBP), defina o tamanho do tile (8x8, 16x16, 32x32, 48x48, 64x64), selecione os tiles e exporte sprites PNG sem perda de qualidade e com transparência preservada — cada um separadamente ou todos em um arquivo ZIP. Processamento 100% local, seus arquivos nunca saem do seu computador.',
   keywords: [
     'recortar spritesheet',
     'sprite sheet cutter',
